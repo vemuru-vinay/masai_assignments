@@ -1,0 +1,21 @@
+order_id,customer_name,product,quantity,unit_price,order_date,status
+1001,Alice Johnson,Laptop,1,85000.00,2024-01-15,delivered
+1002,Bob Smith,Mouse,3,499.00,2024-01-16,pending
+1003,Carol White,Monitor,2,15000.00,,delivered
+1004,Dave Brown,Keyboard,,1200.00,2024-01-18,cancelled
+1005,Eva Green,Laptop,1,85000.00,2024-01-19,delivered
+1006,Frank Miller,USB Hub,5,799.00,2024-01-20,pending
+1007,Grace Lee,Webcam,,2500.00,2024-01-21,delivered
+1008,Henry Wilson,Monitor,1,14500.00,,pending
+1009,Isla Thomas,Mouse,2,499.00,2024-01-23,cancelled
+1010,Jack Moore,Headphones,3,3999.00,2024-01-24,delivered
+1011,Karen Hall,Keyboard,2,1200.00,2024-01-25,pending
+1012,Leo Adams,Laptop,,85000.00,2024-01-26,delivered
+1013,Mia Scott,USB Hub,4,799.00,,pending
+1014,Noah Carter,Webcam,1,2500.00,2024-01-28,cancelled
+1015,Olivia Evans,Headphones,2,3999.00,2024-01-29,delivered
+1016,Paul Harris,Mouse,6,499.00,2024-01-30,pending
+1017,Quinn Martin,Monitor,,14500.00,2024-01-31,delivered
+1018,Rachel King,Laptop,1,85000.00,,delivered
+1019,Sam Wright,Keyboard,3,1200.00,2024-02-01,cancelled
+1020,Tina Baker,USB Hub,2,799.00,2024-02-02,pending
