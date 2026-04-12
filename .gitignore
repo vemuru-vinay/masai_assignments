@@ -1,3 +1,26 @@
-# --- Secrets & Environment ---
+# --- Virtual Environment ---
+venv/
+.venv/
+env/
+
+# --- Secrets ---
 .env
 *.env
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- VS Code settings ---
+.vscode/
+
+# --- OS files ---
+.DS_Store        # Mac
+Thumbs.db        # Windows
+
+# --- Data files (optional - only if CSV is large) ---
+# *.csv
